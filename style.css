@@ -169,7 +169,6 @@ img{
     .content{
         grid-template-columns: auto;
     }
-    
 }
 .wide-col{
     grid-column: 1/-1;
